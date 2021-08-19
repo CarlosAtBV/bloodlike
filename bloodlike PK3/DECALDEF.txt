@@ -3,34 +3,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-generator M90K2			BulletChip
-generator revo8			BulletChip
-generator revo6			BulletChip
-generator taclev		BulletChip
-generator memace		AxeScorch
-generator impbola		DoomImpScorch
-
-
-
-
-
-
