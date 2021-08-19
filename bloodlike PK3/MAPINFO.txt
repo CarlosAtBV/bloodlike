@@ -1,0 +1,6 @@
+gameinfo 
+{
+	lightmode=0
+	playerclasses="TestPlayer"
+}
+
