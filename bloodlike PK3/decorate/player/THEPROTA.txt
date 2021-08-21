@@ -1,0 +1,3 @@
+ACTOR TestPlayer : Doomplayer replaces Doomplayer
+{
+}

@@ -1,0 +1,6 @@
+//IWAD = "bloodlike.ipk3"
+STARTUPTITLE = "bloodlike"
+STARTUPCOLORS = "FF0000", "000000"
+StartupType = "Hexen"
+STARTUPSONG  = "BLTHEME"
+

@@ -1,0 +1,11 @@
+IWad 
+{
+	Name = "Bloodlike"
+	Autoname = "Bloodlike"
+	Game = "Doom"
+	Config = "Doom"
+	//IWADname = "Bloodlike.ipk3"
+	Mapinfo = "mapinfo.txt"
+	BannerColors = "FF 00 00", "00 00 00"
+	StartupType = "Hexen"
+}

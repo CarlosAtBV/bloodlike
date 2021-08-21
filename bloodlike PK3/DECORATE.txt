@@ -1,0 +1,70 @@
+//we will migrate to zscript ideally :DDDD
+
+// .PLAYER
+#include decorate/Player/THEPROTA.txt
+//#include decorate/Player/inventoty.txt
+
+
+// .ITEMS
+//#include decorate/items/
+
+// .WEAPONS
+//#include decorate/weapons/
+
+#include decorate/weapons/testgun.txt
+
+
+//----npc----
+
+//#include decorate/npc/human_classic.txt
+		//classic behaviour
+//#include decorate/npc/human_roamer.txt
+		//roams slowly with stops and jerkiness
+
+// .CULT
+
+//#include decorate/npc/cult/4_SMGcultist.txt
+//#include decorate/npc/cult/
+//#include decorate/npc/cult/
+
+// .SECT
+
+//#include decorate/npc/sect/
+//#include decorate/npc/sect/
+//#include decorate/npc/sect/
+
+// .DEMONS
+
+//#include decorate/npc/demon/
+//#include decorate/npc/demon/
+//#include decorate/npc/demon/
+
+// .MONSTERS
+
+//#include decorate/npc/monsters/
+//#include decorate/npc/monsters/
+//#include decorate/npc/monsters/
+
+// .CRITTERS
+
+//#include decorate/npc/critters/
+//#include decorate/npc/critters/
+//#include decorate/npc/critters/
+
+
+//----entites----
+
+// .GORE
+//#include decorate/gore/
+
+// .SFXs
+//#include decorate/
+
+// .PROPS
+//#include decorate/props/structural.txt
+//#include decorate/props/manmade.txt
+//#include decorate/props/natural.txt
+//#include decorate/props/
+
+//----misc----
+//#include decorate/misc/
